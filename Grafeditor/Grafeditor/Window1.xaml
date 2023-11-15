@@ -1,0 +1,15 @@
+﻿<Window x:Class="Grafeditor.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grafeditor"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800" WindowStyle="None">
+    <Grid>
+        <Label Content="About Graphic editor:&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" Margin="291,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.714,0.57" Height="32" Width="193" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Editor v. 1.0&#xD;&#xA;@ 2022 Denias Levy from Hebrew University. &#xD;&#xA;All rights reserved&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" Margin="291,116,0,0" VerticalAlignment="Top" Height="82" Width="310" FontSize="14" FontFamily="Times New Roman"/>
+        <Button Content="Ok" HorizontalAlignment="Left" Margin="363,278,0,0" VerticalAlignment="Top" Width="75" Background="#FFC51441" Foreground="#FFD3E73C" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\bin\Debug\Grafeditor.exe.config
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\bin\Debug\Grafeditor.exe
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\bin\Debug\Grafeditor.pdb
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.csproj.AssemblyReference.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\App.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor_MarkupCompile.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor_MarkupCompile.lref
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\MainWindow.baml
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.g.resources
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.csproj.CoreCompileInputs.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.exe
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Grafeditor.pdb
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Window1.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\Grafeditor\Grafeditor\obj\Debug\Window1.baml
